@@ -1,0 +1,1 @@
+module example.org/someone/vugu_sample
