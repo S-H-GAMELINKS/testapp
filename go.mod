@@ -1,4 +1,4 @@
-module example.org/someone/testapp
+module github.com/S-H-GAMELINKS/testapp
 
 go 1.12
 
