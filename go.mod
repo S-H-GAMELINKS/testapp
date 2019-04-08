@@ -1,4 +1,4 @@
-module example.org/someone/vugu_sample
+module example.org/someone/testapp
 
 go 1.12
 
